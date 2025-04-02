@@ -1,7 +1,14 @@
-# Hi there, I'm Prabhat! 👋
+## Hi there, I'm Prabhat! 👋
 
-# 💫 About Me:
-🔭 I’m currently working on full stack developer, Python<br>🤝 I’m looking to collaborate on open-source projects related to Web Development, Backend Systems, and Cybersecurity.<br>🌱I’m currently learning Next.js, Backend Development, and Advanced Security Practices.<br>💬 Ask me about MERN Stack, API Integrations, Cloud Security, or anything tech-related!<br>🎉 Fun fact: I love solving real-world problems with code, and I enjoy reading self-help books to improve my problem-solving mindset! 
+
+## 🚀 About Me  
+
+- 🔭 I’m currently working on **a platform that helps YouTubers upload videos seamlessly while on vacation.**  <br>
+- 🤝 I’m looking to collaborate on **open-source projects related to Web Development, Backend Systems, and Cybersecurity.**  <br>
+- 🌱 I’m currently learning **Next.js, Backend Development, and Advanced Security Practices.**  <br>
+- 💬 Ask me about **MERN Stack, API Integrations, Cloud Security, or anything tech-related!**  <br>
+- 🎉 Fun fact: **I love solving real-world problems with code, and I enjoy reading self-help books to improve my problem-solving mindset!**  <br>
+ 
 
 
 ## 🌐 Socials:
